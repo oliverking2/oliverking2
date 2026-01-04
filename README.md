@@ -8,7 +8,7 @@
 - AWS - S3, ECS, Lambda & managing servers on EC2
 - Snowflake and Postgres for analytical and operational workloads
 
-## AI
+## Recent AI Focus
 - Building LLM powered tools and internal automation
 - Exploring agent-based workflows and AI assisted data systems
 - Focus on reliability, observability, and real-world deployment
