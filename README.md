@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @oliverking2
-- 👀 I’m interested in Python and Data Analytics
-- 🌱 I’m currently learning the beginnings of Data Science using Python
-- 📫 How to reach me, email: oliver@oliverking.me.uk
+# Oliver King – Senior Data Engineer
 
-<!---
-oliverking2/oliverking2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Core skills
+- Python - Dagster, FastAPI, Pydantic, Pandas, DuckDB
+- SQL - dbt, Snowflake
+
+## Platforms
+- AWS - S3, ECS, Lambda & managing servers on EC2
+- Snowflake and Postgres for analytical and operational workloads
+
+## AI
+- Building LLM powered tools and internal automation
+- Exploring agent-based workflows and AI assisted data systems
+- Focus on reliability, observability, and real-world deployment
+
+## Currently Reading
+- AI Engineering (Chip Huyen)
+- Fundamentals of Data Engineering
+- Designing Data-Intensive Applications
+
+## Contact
+- Email: oliver@oliverking.me.uk
+- LinkedIn: https://www.linkedin.com/in/oliver-king2/
